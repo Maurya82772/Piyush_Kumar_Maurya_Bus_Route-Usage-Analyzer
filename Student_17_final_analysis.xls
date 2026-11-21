@@ -1,0 +1,31 @@
+Route,Stop,Daily_Passengers,Distance_KM,Passengers_Per_KM,Weekly_Passengers
+Route 4,Main Gate,22,3,7.33,110
+Route 1,Hostel,68,5,13.6,340
+Route 1,Library,73,6,12.17,365
+Route 4,Market,52,23,2.26,260
+Route 4,College,24,15,1.6,120
+Route 1,Market,57,10,5.7,285
+Route 1,Hostel,32,16,2.0,160
+Route 4,Library,51,5,10.2,255
+Route 3,College,50,3,16.67,250
+Route 4,Hostel,29,5,5.8,145
+Route 4,Main Gate,32,22,1.45,160
+Route 1,Main Gate,47,9,5.22,235
+Route 2,College,31,4,7.75,155
+Route 2,College,32,9,3.56,160
+Route 3,Library,5,10,0.5,25
+Route 2,Library,74,10,7.4,370
+Route 2,Main Gate,8,6,1.33,40
+Route 1,Hostel,35,20,1.75,175
+Route 3,Main Gate,27,10,2.7,135
+Route 1,Library,58,18,3.22,290
+Route 1,Main Gate,65,16,4.06,325
+Route 3,College,80,5,16.0,400
+Route 4,College,33,21,1.57,165
+Route 1,College,43,16,2.69,215
+Route 1,Main Gate,66,14,4.71,330
+Route 4,Main Gate,67,24,2.79,335
+Route 4,Main Gate,15,12,1.25,75
+Route 2,Main Gate,21,10,2.1,105
+Route 3,Market,72,11,6.55,360
+Route 4,College,60,5,12.0,300
